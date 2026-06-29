@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 設甲乙丙斜弧三角形如圖甲乙二角有甲乙邊為二角之角㫄弧倚於平儀之外周量取甚易取丙角則視丙乙弧應外周為乙戊弧從戊作識數之過乙到已得九十度以乙已弧應於內下曲弧為乙丁識之又視甲丙弧應外周為甲庚弧從庚作識數之向甲到辛得九十度以庚辛弧應於內上曲弧為丙壬識之乃以兩內上曲弧交角丙對圜心丑作虛直距遂作虛十字橫距割外周於子癸從子割丁到癸作內下曲弧從子割壬到癸作內上曲弧合子丁子壬應外周之度如自角至亢之度即丙角度附録有角㫄弧在外周量法
+  hash: sha256:326d69e1cfe6aa2f2682ace5fb260ac2857a4c19b2f16c80933b8c758d67e198
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:556ee3d336400cbbd4f08d655e6f568cadd2196feffb07a0f2b3665d81b2919a

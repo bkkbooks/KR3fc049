@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次依丙角度作丙角用二圜一作丙辛上下曲弧虛交於甲丁弧上一作亢戌橫距角度隨之又用二圜作卯丑辰午丑寅十字對乙交角界之又數乙壬得九十度卽用一圜作卯辰上曲弧就之視子壬適得乙外角度卽繪爲眞形不合則遷就之取次形知布三角則次形明矣此形若取三外角卽應丑申酉次形如前圖以甲角庚已減半周得戊庚應丑酉次形邊丙角亥戌減半周得亢亥應丑申次形邊乙角壬癸減半周得癸未應申酉次形邊何以審之試側置前圖先明甲角甲庚弧之交戊已弧成十字
+  hash: sha256:ed721985178dc13b15286377885de3daef54f8b0d28449f7e14b8dc760601a9e
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:44b192c6cf67211db00dc5283fcac83993d3c8580b93f22db65209941225ec1c

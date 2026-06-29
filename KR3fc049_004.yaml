@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歙汪萊著弧三角形弧角比例鋭鈍大小知不知條目對角求對邊一原所知角鋭對邊大又所知角鋭所求對邊恆小一原所知角鋭對邊大又所知角鈍所求對邊恆大一原所知角鋭對邊足九十度與對邊大同一原所知角鋭對邊小又所知角鋭審又所知角小於原所知角則所求對邊小若大於原所知角則不能定一原所知角鋭對邊小又所知角鈍審又所知角之外角小於原所知角則所求對邊大若大於原所知角則不能定一原所知角鈍對邊小又所知角鈍所求對邊恆大
+  hash: sha256:54416e06db98a5575ec00142b20119fc4ffb95f843afc108543d29178b95f4e6
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:39ed9ec79b938e5701226e0878bd2f674f7a446bd76ba06da916a83c3c736de7

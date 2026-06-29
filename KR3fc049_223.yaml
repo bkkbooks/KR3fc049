@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/223
+seq: 223
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:9d65a3ab608d5d78d01b5bdfbe6d24f71c6ba10c930ea7924237f9049cf92fa7

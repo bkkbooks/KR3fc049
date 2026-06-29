@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘得積又用句𢎺和倍之減去加過闊根之數用其餘數以乘前自乘之積得數加入前帶縱立方積為實句𢎺和自乘之數為法除之視其得數較加過闊根之數恰合則即為密數矣若多則更當加少則不可加更當加則又加一數如前法求之如前法視之不可加則還其本數待次位之加次位三位以下若有多位皆以前法定之此一加一減之法皆以中率為限長根之減不得過中率以下闊根之加不得過中率以上則長闊不至相淆雖有奇零之數皆無慮其不合矣解曰前帶縱立方積本以倍句乘股為底復以倍句乘股為高底高相乘句𢎺和除之之數也就句𢎺和未除之先三次之乘互易觀之即可
+  hash: sha256:427aa605a6e48655d327d760ed39c4addc38110525e1dfecd53ba43fb2f5813f
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:b24d6c5d3f343cf3ac7900dc40b4ed889c38ef0dac3dfbff8b409391f1cb4a81

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/124
+seq: 124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十物遞兼分數圖解
+  hash: sha256:57bbac7007f8b50c158ecea538f4b069f29827dadb40de60303f8f69ab38775f
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:f4caecbbf48273174b66034668888d45f37baff29d20206e67fdb03b5af2db3f

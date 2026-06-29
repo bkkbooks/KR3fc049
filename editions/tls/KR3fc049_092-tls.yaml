@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/92
+seq: 92
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩㫄互截其五分之三成五分之三交錯二通弴按五平分度作四半徑割之此五分之三之通弴其兩㫄之兩截皆與五分之一通弴等葢兩半徑與五分之一通弴所成大三角形內爲五分之三通弴所截成一小三角形而五分之一通弴與五分之三通弴其中所夾之角必與大形五分之一之度等緣五分之三之通弴與半徑所夾之角得五分之三外角之半五分之一之通弴與半徑所夾之角得五分之一外角之半五分之三外角較五分之一外角少五分之二五分之一半外角較五分之三半外角多五分之一五分之一通弴與五分之三通弴所夾之角適當此所多之
+  hash: sha256:005fb0e37ce1e79fb7bba859c129c4d5e02b3a31b2851c5475d7251a4c56ea3e
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:29c7a0d62fa7f31fe39df5e20f58a6d8ba1dacc8c51f69df2f0b29e454e706a7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 銳若小於原所知邊則不能定一原所知無論邊大對角鈍邊小對角銳但又所知邊足九十度者所求對角皆不能定一原所知邊足九十度對角無論銳鈍正又所知邊大所求對角恒鈍又所知邊小所求對角恒銳附錄弧角比例算法凡附錄皆古法對角求對邊一率原所知角正𢎺二率所知對邊正𢎺三率又所知角正𢎺四率所求對邊正𢎺對邊求對角一率原所知邊正𢎺二率所知對角正𢎺三率又所知邊正𢎺四率所求對角正𢎺正弧三角銳鈍大小相從條目
+  hash: sha256:209f07ed25072323e5d7016b5c11c125115ca1b5977b309939ef7afaacb96c24
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:c37a4dc16c362ebf6454814f12c8da23d3c50ad625af3d174cf66207f4bcdbce

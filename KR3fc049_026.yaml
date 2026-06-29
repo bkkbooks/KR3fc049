@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鋭鈍定例原又一角鈍對先用角之邊大於後下弧此角鈍原又一角鈍對先用角之邊小於後下弧此角鋭原又一角鋭對先用角之邊小於後下弧此角鈍原又一角鋭對先用角之邊大於後下弧此角鋭附録正弧三角算法五條有交角與上弧求下弧一率半徑二率交角餘𢎺三率上弧切線四率下弧切線有交角與下弧求對弧一率半徑二率交角切線
+  hash: sha256:d5b561b2e81247dd85a60bd9b2ed8abf06838bfd01a96a21783749bacb40e97b
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:28b87deb3e06862c837ba8d657351b32a796a58cee4e224eb6ea8000f712e33c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/204
+seq: 204
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歙汪萊者諸乘方數根數真數糅雜設題式並訣一根一真數之合正正一五正正正正正一一十一三十一六正負一七正負負正正一二三十五一五正負一八正負正正負一一十一二十四一三右二行首兩無數合無數中一有一無合一數未兩有數合兩數合而有數皆如本後倣此正正一五正正正正正正一七一一十五七十一一百五正正一三正負一八正正正正負負
+  hash: sha256:59116f236c799a29c707beaf9e4cb8e294c926a34d1e69c8e7513592711732ef
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:ff1bd9f3c03de99a8a40296251dd9766e3b8a9b61a1a06964b170af6a404abec

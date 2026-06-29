@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 更減者也有兩句𢎺和相等有此形之句𢎺較求等積兩句股形彼形之句𢎺較及兩形相等之積一句𢎺和一股𢎺和相等法同法曰此形句𢎺較與句𢎺和相減餘為此形之倍句倍句與句𢎺較相乘為帶縱平方積句𢎺較為所帶之縱用帶縱平方法開之得闊邊為兩形兩句𢎺較之中率此形倍句減去中率即得彼形句𢎺較兩較各與句𢎺和求得句股𢎺諸數其句股相乘折半之積必等解曰凡三率連比例併數以首率乘之開方得根別以末率乘之開方得根兩根之比例必與首中併數中末併數兩數之比例等是成四率斷比例何以知之凡此兩方積與彼兩方積成比例則此兩方根與彼兩方根亦成比例
+  hash: sha256:765290d41157db6b501cda00857e8209e34198e4d51f6c29b486aa2abcddec86
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:a9cb6fd6068b76689f4537aa0e2d7085debefe7a1cebdf6c5ee4346a658fcff8

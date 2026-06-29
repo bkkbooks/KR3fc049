@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/122
+seq: 122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多一物自立之數也其以少一物之遞兼總數爲根而倍之者今設所多之一物必與前遞兼數相兼而徧得數也
+  hash: sha256:9b68ebeb587e9b1251cf572b6b72327478f9c7d8f554dffa692a719e7818005c
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:dcb7a8ac7ac9470723c873a209c7ff6899a1ddfbd0f29a91294d076521e541f5

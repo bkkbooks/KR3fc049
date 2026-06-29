@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三率下弧正𢎺四率對弧切綫有上下二弧求餘角一率上弧正𢎺二率下弧正𢎺三率半徑四率餘角正𢎺有下弧與對弧求交角一率下弧正𢎺二率對弧切綫三率半徑四率交角切綫有交角與下弧求上弧一率交角餘𢎺二率半徑三率下弧切綫四率上弧切綫量角度新法
+  hash: sha256:2ac89d7f6efa10e7ef4308619036da184b8dedbc2ed4b998de8f99cb6a3c3a6c
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:eb803bcb6f50ab25b8177df94b4b70fe54990e71d6968182b5f77f17fd807794

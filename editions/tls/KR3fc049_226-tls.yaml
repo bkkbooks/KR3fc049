@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 按原題於進退間求之盈其法之層數俱奇零不盡者是爲不可開
+  hash: sha256:858edfa37c9dd56ddfb6774811b0e26b3524b80a01aa4d9e4696ad1420f7d311
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:96c2e03551c9f34b10abf6ffbec798b69e328f1addb4dc55d0c84bfe0d62ff4d

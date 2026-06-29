@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一所知一邊在所知兩角之間法以所知邊爲上弧先任以所知一角爲交角用正弧三角法求得下弧餘角二件以所知又一角與此餘角相減餘爲分角乃以分角之餘𢎺爲一率前餘角之餘𢎺爲二率原所知邊切綫爲三率求得四率爲對先用角不知之邊切綫大小定例先用角鈍分角銳此邊大先用角鈍分角鈍此邊小先用角銳分角銳此邊小先用角銳分角鈍此邊大又以前餘角之切綫爲一率前下弧切綫爲二率分角切綫爲三率求得四率爲加減邊切綫大小定例分角銳此邊小分角鈍此邊大審所知又一角大於前餘角以此邊與前下弧相加若小於前餘角以此邊與前下弧相減皆
+  hash: sha256:47cfe7996bf00a2e49cfa05cf4324eb2f2243a81618087b34ff0b1030e2e7fbc
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:8c2ddee6c0aba4221c6b28cd5f4139a47ff91f3bd4cf671106a605054ff7ca66

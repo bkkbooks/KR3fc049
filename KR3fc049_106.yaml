@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/106
+seq: 106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算師思精算弟子之詣舍多設題以難之無由也弧三角之算窮形固難設形亦難稍不經意動乖其方但值握籌茫然先虞發策窘矣已未之夏吾宗岫雲出遊欲構難題數端往詰算博士因為制此條目舊著遞兼數理亦設問之奇者也合為一冊以廣贈算師歙汪萊
+  hash: sha256:81c802e4f848b6eabc3f7bd11147fd14194ad951ebddff3d6f35e989a57332a5
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:da9e7c4293e497f06999cf7466796bb5958cf43944e82f99644ee64c9174de82

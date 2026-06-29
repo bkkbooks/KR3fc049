@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戊午秋季歸自白門抱璞而泣孟嘉適翻算表顧謂予曰且談藝可乎予曰唯唯孟嘉曰八線之制其法終於三分取一表之眞數僅得十分之二誠能立五分取一之法則全表皆確數矣子盍思之予諾之而未暇也轉𣊬又屆秋初孟嘉殤厥中男移居別館不淚而傷予無文不能制東野失子之篇思以瑣故移其情遂構此術稍演得三千言強使遊目以破一須臾之感歙汪萊
+  hash: sha256:246759d3e0c30a724e0105de73f163e7b9b2cd7a9f868dd4be89446785da4bfa
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:92d0694049eb9d6420deb30a570b9ee8716b61bc18279f5fe3eed50290b85233

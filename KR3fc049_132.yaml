@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc049/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以不知為知不可也而猶可也以不可知為知大不可也何可乎以不知為知何不可乎以不可知為知物豫我以知我暫不知會心焉有待也物不任我以知我謬附以知見魔焉迷不反也嗟乎使物有知不且笑知已乎故曰知其不可知知也辛酉仲秋吾友江鄭堂畢子廉相將為䢴水之遊湖上杯間發我知者何限未幾巾車遊南嶽臨別之頃與鄭堂察秦九韶開方術及李冶天元一術多以不可知為知者遂就二乘方以下𥳑且易者略為條目以正之首録一冊寄吾友焦理堂理堂其樂道豫之知歟末不亦樂乎豫之不知也歙汪萊
+  hash: sha256:bcf1855455df6218c4db752cceffae009c7083f4812bce07f46acd588be6421a
+metadata:
+  title: 衡齋算學
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc049.xml
+hash: sha256:b6808744139e441451bafbe3f2f8a7a7b5df0dee544e82d5d8c4f9693123ccf8
