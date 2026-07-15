@@ -13,7 +13,10 @@ markers:
   - {type: line-break, offset: 54, content: '', id: KX_4_dup53, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 72, content: '', id: KR3fc049_tls_001-p53.s5}
   - {type: line-break, offset: 72, content: '', id: KX_5_dup53, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 74, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc049_tls_001-p53.s6}
   - {type: line-break, offset: 90, content: '', id: KX_6_dup53, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 93, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 95, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   back: []
-hash: sha256:9d1e90c9540631043ff40b5870d221531f461276261f3573bcfc8a80ecbfc184
+hash: sha256:59d3001e27339fd39d11dd06fa54f0c8f57c6c5e77cca5dcb14674434bc2d3b2

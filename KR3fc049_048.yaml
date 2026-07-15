@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 憶始晤吾友江蒹浦時蒹浦課以句𢎺和與中容求諸數一題余攷自來算書有梅君循齋及丁君維烈二法認題旣誤布算自乖因思別立正術思緒不來大爲蒹浦所窘戊午春夜與孟嘉雨窗破寂覆拈此題略言其𧼈越日蒹浦自山中讀書來旣見斯編相視而咲想見初相見時歙汪萊
-  hash: sha256:949be8a2f0409c5c6bb55f7e6805fd2640f1aa4270ab62947e7f5ffe6c46f508
+  text: 憶始晤吾友江蒹浦時蒹浦課以句弦和與中容求諸數一題余考自來算書有梅君循齋及丁君維烈二法認題既誤布算自乖因思別立正術思緒不來大為蒹浦所窘戊午春夜與孟嘉雨窗破寂覆拈此題略言其𧼈越日蒹浦自山中讀書來既見斯編相視而笑想見初相見時歙汪萊
+  hash: sha256:57b638440fe34f0f8911d7dbfcf0a5af7e0133a3b59e4278822c01bfe51b1f3b
 metadata:
   title: 衡齋算學
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc049.xml
-hash: sha256:fff8fbd597a5b2238d8245227b555bfba3c9e85fa9020b5e58ba1f78214ed608
+hash: sha256:e82995dac4dade2412bf4a1cbf3f86cd2496d7c31bdaf129c387b543cb478feb
